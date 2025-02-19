@@ -9,7 +9,6 @@ icon: home
 The Guides are currently not finished. -> Contribute on [Github](https://github.com/Crystopia/Guides)
 !!!
 
-
 ## Welcome to Crystopia Guides!
 
 Here you can find all the important information about our Minecraft server Crystopia. Our community is friendly and helpful, and we offer you a lot of features and support for a great gaming experience.
