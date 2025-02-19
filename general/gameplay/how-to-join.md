@@ -1,5 +1,5 @@
 ---
-label: Server Rules
+label: "How to join Crystopia?"
 layout: page
 order: 100
 icon: /assets/svg/calendar-range.svg
