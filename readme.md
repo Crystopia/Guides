@@ -3,6 +3,7 @@ label: Overview
 layout: page
 order: 100
 icon: home
+visibility: public
 ---
 
 # Overview
