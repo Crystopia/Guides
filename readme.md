@@ -1,5 +1,5 @@
 ---
-label: Sample
+label: Overview
 layout: page
 order: 100
 icon: home
@@ -26,7 +26,7 @@ Here you can find all the important information about our Minecraft server Cryst
 
 -  "<link>" - Our rules ensure a fair and enjoyable gaming experience
 -  "<link>" - An overview of the commands available to help you play.
--  "<link>" - A helpful guide for new players to quickly find their feet.
+-  "<link>" - A helpful guide for new players to quickly find their feet.<br />
 Have fun on Crystopia and if you have any questions, take a look at our guides or contact us in the Discord!
 
 
