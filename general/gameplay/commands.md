@@ -1,6 +1,6 @@
 ---
 label: "Commands"
-icon: /assets/svg/circle-help.svg
+icon: /assets/svg/square-terminal.svg
 visibility: public
 ---
 
