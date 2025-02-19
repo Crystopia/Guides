@@ -4,8 +4,10 @@ url: https://guides.crystopia.link
 branding:
   title: Guides
   label: 2.5.1
+  logo: /assets/crystopia.webp
 links:
   - text: Discord
+    icon: link-external
     link: https://crystopia.link/discord
 footer:
   copyright: "&copy; Copyright . All rights reserved."
