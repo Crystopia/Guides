@@ -11,4 +11,4 @@ visibility: public
 **Step 1: Launch Minecraft**
 > Open the Minecraft Launcher on your computer and log in with your Minecraft account.
 
-![alt text](/assets/images/mc-start.join.png)
+![Open the Minecraft Launcher](/assets/images/mc-start.join.png)

@@ -1,11 +1,8 @@
 ---
-label: Overview
-layout: page
-order: 100
+label: "Overview"
 icon: home
-visibility: public
 ---
-
+![](/assets/crystopia.webp)
 # Overview
 
 !!!primary
