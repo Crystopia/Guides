@@ -1,0 +1,11 @@
+input: .
+output: .retype
+url: https://guides.crystopia.link
+branding:
+  title: Guides
+  label: 2.5.1
+links:
+  - text: Discord
+    link: https://crystopia.link/discord
+footer:
+  copyright: "&copy; Copyright . All rights reserved."
